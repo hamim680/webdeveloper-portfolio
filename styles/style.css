@@ -123,4 +123,9 @@ main{
     font-weight: 400;
     line-height: 30px;
 }
+.section-description-one{
+    padding: 30px 150px;
+    text-align: center;
+    font-size: 18px;
+}
 
